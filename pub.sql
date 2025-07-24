@@ -2,6 +2,7 @@ CREATE DATABASE pubs;
 --nothing much
 --second one
 --third one
+--orth
 USE pubs;
 
 CREATE TABLE authors
