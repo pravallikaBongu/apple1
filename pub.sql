@@ -1,5 +1,5 @@
 CREATE DATABASE pubs;
-
+--nothing much
 USE pubs;
 
 CREATE TABLE authors
